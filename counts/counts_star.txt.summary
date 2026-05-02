@@ -1,0 +1,15 @@
+Status	/home/FCAM/xiqiu/meds5420/final_project/out_star/Con_1.bam	/home/FCAM/xiqiu/meds5420/final_project/out_star/Con_2.bam	/home/FCAM/xiqiu/meds5420/final_project/out_star/Con_3.bam	/home/FCAM/xiqiu/meds5420/final_project/out_star/Lac_1.bam	/home/FCAM/xiqiu/meds5420/final_project/out_star/Lac_2.bam	/home/FCAM/xiqiu/meds5420/final_project/out_star/Lac_3.bam	/home/FCAM/xiqiu/meds5420/final_project/out_star/XBP1_1.bam	/home/FCAM/xiqiu/meds5420/final_project/out_star/XBP1_2.bam	/home/FCAM/xiqiu/meds5420/final_project/out_star/XBP1_3.bam	/home/FCAM/xiqiu/meds5420/final_project/out_star/XBP1_L_1.bam	/home/FCAM/xiqiu/meds5420/final_project/out_star/XBP1_L_2.bam	/home/FCAM/xiqiu/meds5420/final_project/out_star/XBP1_L_3.bam
+Assigned	45708961	42690723	32122495	37786559	38062311	35292142	34402953	51744454	48459248	42458968	28718063	31250957
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	12716644	11670426	9327516	12033382	12381354	10752718	11597372	17233598	14336802	17422716	11655610	12493830
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	5108196	4329173	3545992	6125438	6194629	5619584	4370544	6361752	5868407	8167072	5766843	7516968
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	6539893	6087586	4551279	5343721	5347794	4979988	4777145	7149450	6687529	6097904	4161358	4562523
