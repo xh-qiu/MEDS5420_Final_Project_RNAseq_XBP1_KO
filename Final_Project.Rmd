@@ -1,7 +1,6 @@
 ---
 title: "MEDS5420 Final Project"
 subtitle: "<b>Comparative RNA-seq analysis using STAR and a lab pipeline for human transcriptome profiling and investigation of unexpected expression patterns<b>"
-author: "Xihua Qiu"
 date: "2026-05-01"
 output:
   html_document:
