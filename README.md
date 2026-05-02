@@ -1,5 +1,5 @@
 # MEDS5420 Final Project  
-## RNA-seq Analysis of XBP1 Knockout
+## Comparative RNA-seq analysis using STAR and a lab pipeline for human transcriptome profiling and investigation of unexpected expression patterns
 
 This repository contains the final project for MEDS5420.
 
